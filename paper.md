@@ -29,7 +29,14 @@ Examples of how Open Data Cube has been instrumental for addressing real-world s
 
 ## Discussion
 
+#### Comparison to existing "data cubes"
+
+##### Google Earth Engine
+
+##### PANGEO
+
 #### Challenges and future work
+Base this on ideas for [ODC version 2.0](https://github.com/opendatacube/datacube-core/projects/2)?
 
 ---
 
